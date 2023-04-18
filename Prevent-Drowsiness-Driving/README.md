@@ -6,7 +6,7 @@
   * Amp : Speaker의 출력을 돕기 위해 사용
 ---
 
-# 시현 영상
+## 시현 영상
 https://www.youtube.com/watch?v=ergfIh8R9Vw
 
 ---
